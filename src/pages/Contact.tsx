@@ -52,7 +52,7 @@ export default function Contact() {
                   </dt>
                   <dd>
                     <p className="text-base font-semibold text-gray-900">Email</p>
-                    <p className="mt-1 text-base text-gray-500">info@gracechurch.org</p>
+                    <p className="mt-1 text-base text-gray-500">info@crministries.org</p>
                   </dd>
                 </div>
                 <div className="flex gap-x-4">
