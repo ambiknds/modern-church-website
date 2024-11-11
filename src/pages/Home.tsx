@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <>
       <Helmet>
-        <title>Grace Community Church - Welcome Home</title>
-        <meta name="description" content="Welcome to Grace Community Church. Join us in worship, community, and service as we grow together in faith." />
+        <title>Community Reach Ministries - Welcome Home</title>
+        <meta name="description" content="Welcome to Community Reach Ministries. Join us in worship, community, and service as we grow together in faith." />
       </Helmet>
 
       {/* Hero Section */}
@@ -130,7 +130,7 @@ export default function Home() {
           <figure className="mt-10">
             <blockquote className="text-center text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
               <p>
-                "Welcome to Grace Community Church, where every person is valued and every story matters. 
+                "Welcome to Community Reach Ministries, where every person is valued and every story matters. 
                 We believe in creating a space where faith grows, relationships thrive, and lives are transformed."
               </p>
             </blockquote>

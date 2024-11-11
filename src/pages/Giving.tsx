@@ -25,10 +25,10 @@ export default function Giving() {
   return (
     <>
       <Helmet>
-        <title>Give - Grace Community Church</title>
+        <title>Give - Community Reach Ministries</title>
         <meta
           name="description"
-          content="Support the ministry of Grace Community Church through your generous giving. Multiple giving options available."
+          content="Support the ministry of Community Reach Ministries through your generous giving. Multiple giving options available."
         />
       </Helmet>
 

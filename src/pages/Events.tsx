@@ -37,10 +37,10 @@ export default function Events() {
   return (
     <>
       <Helmet>
-        <title>Events - Grace Community Church</title>
+        <title>Events - Community Reach Ministries</title>
         <meta
           name="description"
-          content="Join us for upcoming events at Grace Community Church. Find worship services, Bible studies, youth activities, and more."
+          content="Join us for upcoming events at Community Reach Ministries. Find worship services, Bible studies, youth activities, and more."
         />
       </Helmet>
 

@@ -40,10 +40,10 @@ export default function Ministries() {
   return (
     <>
       <Helmet>
-        <title>Ministries - Grace Community Church</title>
+        <title>Ministries - Community Reach Ministries</title>
         <meta
           name="description"
-          content="Explore our various ministries at Grace Community Church. Find your place to serve, grow, and connect with others."
+          content="Explore our various ministries at Community Reach Ministries. Find your place to serve, grow, and connect with others."
         />
       </Helmet>
 

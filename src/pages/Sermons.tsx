@@ -37,10 +37,10 @@ export default function Sermons() {
   return (
     <>
       <Helmet>
-        <title>Sermons - Grace Community Church</title>
+        <title>Sermons - Community Reach Ministries</title>
         <meta
           name="description"
-          content="Listen to our latest sermons and messages from Grace Community Church. Grow in your faith through biblical teaching and inspiration."
+          content="Listen to our latest sermons and messages from Community Reach Ministries. Grow in your faith through biblical teaching and inspiration."
         />
       </Helmet>
 

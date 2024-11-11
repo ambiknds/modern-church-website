@@ -24,7 +24,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         >
           <div className="flex lg:flex-1">
             <Link to="/" className="-m-1.5 p-1.5">
-              <span className="sr-only">Grace Community Church</span>
+              <span className="sr-only">Community Reach Ministries</span>
               <Church className="h-8 w-auto text-indigo-600" />
             </Link>
           </div>
@@ -67,10 +67,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               exit={{ opacity: 0, y: -20 }}
             >
               <div className="fixed inset-0 z-50" />
-              <div className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
+              <div className="fixed h-screen inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
                 <div className="flex items-center justify-between">
                   <Link to="/" className="-m-1.5 p-1.5">
-                    <span className="sr-only">Grace Community Church</span>
+                    <span className="sr-only">Community Reach Ministries</span>
                     <Church className="h-8 w-auto text-indigo-600" />
                   </Link>
                   <button
@@ -156,7 +156,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                       <p className="text-sm leading-6 text-gray-300">
                         Sunday Services:
                         <br />
-                        9:00 AM & 11:00 AM
+                        03:00 PM
                       </p>
                     </li>
                   </ul>
@@ -173,7 +173,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                     </li>
                     <li>
                       <p className="text-sm leading-6 text-gray-300">
-                        Email: info@gracechurch.org
+                        Email: info@crministries.org
                       </p>
                     </li>
                   </ul>
@@ -183,7 +183,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           </div>
           <div className="mt-2 border-t border-white/10 pt-4 sm:mt-4 lg:mt-2">
             <p className="text-xs leading-5 text-gray-400">
-              &copy; {new Date().getFullYear()} Grace Community Church. All
+              &copy; {new Date().getFullYear()} Community Reach Ministries. All
               rights reserved.
             </p>
           </div>

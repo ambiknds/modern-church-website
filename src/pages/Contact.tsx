@@ -7,10 +7,10 @@ export default function Contact() {
   return (
     <>
       <Helmet>
-        <title>Contact Us - Grace Community Church</title>
+        <title>Contact Us - Community Reach Ministries</title>
         <meta
           name="description"
-          content="Get in touch with Grace Community Church. We'd love to hear from you and answer any questions you may have."
+          content="Get in touch with Community Reach Ministries. We'd love to hear from you and answer any questions you may have."
         />
       </Helmet>
 

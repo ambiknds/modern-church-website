@@ -16,7 +16,7 @@ const timelineEvents = [
     year: '1985',
     title: 'Church Foundation',
     description:
-      'Grace Community Church was established with a small group of dedicated families.',
+      'Community Reach Ministries was established with a small group of dedicated families.',
   },
   {
     year: '1990',
@@ -86,10 +86,10 @@ export default function About() {
   return (
     <>
       <Helmet>
-        <title>About Us - Grace Community Church</title>
+        <title>About Us - Community Reach Ministries</title>
         <meta
           name="description"
-          content="Learn about Grace Community Church's history, mission, and values. Join our welcoming community of faith, love, and service."
+          content="Learn about Community Reach Ministries's history, mission, and values. Join our welcoming community of faith, love, and service."
         />
       </Helmet>
 
@@ -110,7 +110,7 @@ export default function About() {
               Transforming Lives Through Christ's Love
             </p>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              At Grace Community Church, we are committed to sharing the
+              At Community Reach Ministries, we are committed to sharing the
               transformative power of God's love, building authentic
               relationships, and serving our community with compassion and
               grace.
